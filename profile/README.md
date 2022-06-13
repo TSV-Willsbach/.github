@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+
+## Teams / Departments
+- Handball @TSV-Willsbach/handball
 
 <!--
 
