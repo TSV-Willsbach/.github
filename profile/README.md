@@ -1,8 +1,7 @@
 # TSV Willsbach e.V.
 
 ## Teams / Departments
-- Handball [@TSV-Willsbach/handball](https://github.com/orgs/TSV-Willsbach/teams/handball)
+- [Handball](./teams/handball.md)
 
-## Domains
-- [willsbach-handball.de](https://willsbach-handball.de)
+## Info
 - [tsv-willsbach.de/](https://tsv-willsbach.de/)
